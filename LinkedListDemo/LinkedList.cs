@@ -6,5 +6,6 @@ namespace LinkedListDemo
 {
     class LinkedList
     {
+        internal Node head;
     }
 }
